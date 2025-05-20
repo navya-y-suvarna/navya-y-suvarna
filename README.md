@@ -37,11 +37,6 @@
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=transparent&color=0077B5&cacheSeconds=86400" height="35" alt="LinkedIn" />
   </a>
   
-  <!-- Instagram -->
-  <a href="https://instagram.com/___navya5uvarna" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=transparent&cacheSeconds=86400" height="35" alt="Instagram" />
-  </a>
-  
   <!-- Discord -->
   <a href="https://discord.com/users/._p5yduck_." target="_blank">
     <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=transparent&cacheSeconds=86400" height="35" alt="Discord" />
